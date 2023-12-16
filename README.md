@@ -1,0 +1,4 @@
+<h1>Problem statement</h1>
+<p>
+  Addressing the problem of tip estimation for a restaurant involves utilizing a publicly available labeled dataset containing various variables. These variables encompass the total amount of the bill, the payer's gender, and the timestamp of the bill payment. The task at hand is a regression problem, focusing on predicting the continuous data—specifically, the tip amount. In supervised learning, labeled data is employed to train the model for predictions. The dataset consists of instances with known tip values, enabling the model to learn the underlying relationship between input features (e.g., total bill, number of diners, and time of day) to make accurate predictions. The model's performance is evaluated using automatic metrics like mean absolute error or mean squared error, providing insights into the accuracy of the model's tip predictions.
+</p>
